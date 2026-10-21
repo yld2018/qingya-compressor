@@ -1,0 +1,1 @@
+{"name":"qingya-compressor","version":"1.0.0","private":true,"scripts":{"build":"node build-offline.cjs"},"dependencies":{"jszip":"3.10.1","pdf-lib":"1.17.1","pdfjs-dist":"4.10.38"},"engines":{"node":">=22"}}
